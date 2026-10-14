@@ -1,0 +1,7 @@
+{
+  "name": "Sonora",
+  "description": "A Pixel-inspired native Android music player with Material You dynamic colors, Media3 ExoPlayer, sleep timer, duration filtering, and Glance widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

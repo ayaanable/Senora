@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sonora</string>
+    <string name="widget_name">Sonora Music</string>
+    <string name="widget_description">Control music playback with Pixel Material You style</string>
+    <string name="notification_channel_name">Sonora Playback</string>
+    <string name="notification_channel_desc">Playback controls for Sonora music player</string>
+</resources>
+
+
